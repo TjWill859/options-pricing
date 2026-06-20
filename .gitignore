@@ -1,3 +1,5 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+monte_carlo
+monte_carlos
